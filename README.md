@@ -5,7 +5,7 @@
 
 ## Description 
 The motivation behind this project was to build a tech blog for fellow techies to come together and share ideas. You could sign up for an account and once logged in, create as much blog posts as youd like. You can also leave comments on others blog posts.
-
+https://fathomless-tundra-74001.herokuapp.com/
 ![screenshot](./assets/Screenshot%201.png)
 ## Installation
 N/A
