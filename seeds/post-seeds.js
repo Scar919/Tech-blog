@@ -3,7 +3,7 @@ const { Post } = require('./models');
 const postdata = [
   {
     title: 'Pove ipsum.',
-    post_content: 'https://buzzfeed.com/in/imperdiet/et/commodo/vulputate.png',
+    post_content: 'https://yahoo.com/in/imperdiet/et/commodo/vulputate.png',
     user_id: 5
   },
   {
@@ -13,7 +13,7 @@ const postdata = [
   },
   {
     title: 'bomec dique, vestibue.',
-    post_content: 'https://europa.eu/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
+    post_content: 'https://MOMA.com/parturient/montes/nascetur/ridiculus/mus/etiam/vel.aspx',
     user_id: 3
   },
   {
@@ -23,12 +23,12 @@ const postdata = [
   },
   {
     title: 'Etesque Set Iunc.',
-    post_content: 'http://google.ca/nam/nulla/integer.aspx',
+    post_content: 'http://bing.ca/nam/nulla/integer.aspx',
     user_id: 2
   },
   {
     title: 'Lorem ipsum dolor lipmer et, wintaer adlrea elit.',
-    post_content: 'https://stanford.edu/consequat.png',
+    post_content: 'https://harvard.edu/consequat.png',
     user_id: 4
   },
   {
@@ -38,12 +38,12 @@ const postdata = [
   },
   {
     title: 'lorem hac platea.',
-    post_content: 'http://ucla.edu/consequat/nulla.html',
+    post_content: 'http://ucdavis.edu/consequat/nulla.html',
     user_id: 2
   },
   {
     title: 'Lor acho qibh.',
-    post_content: 'http://theguardian.com/dui/vel/nisl/duis/ac/nibh.aspx',
+    post_content: 'http://NewyorkTimes.com/dui/vel/nisl/duis/ac/nibh.aspx',
     user_id: 1
   },
 ]
